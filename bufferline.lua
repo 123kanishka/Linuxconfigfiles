@@ -94,7 +94,7 @@ function M.config()
         guibg = colors.black,
       },
 
-      -- Modified
+      -- Modifiedd
       modified = {
         guifg = colors.red,
         guibg = colors.black_2,
